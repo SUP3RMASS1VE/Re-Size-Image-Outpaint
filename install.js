@@ -35,5 +35,13 @@ module.exports = {
         ]
       }
     },
+    {
+      id: 'end',
+      method: 'input',
+      params: {
+        title: "Install Complete!!",
+        description: "Install Complete. (App is safe to click Save Disk Space)"
+      }
+    },
   ]
 }
